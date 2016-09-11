@@ -1,2 +1,2 @@
 #Respository for Intro to Web Development HW and Class Exercises
-##A smaller heading
+##Cindy Hu's homework for Intro to Web Development
