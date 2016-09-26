@@ -11,7 +11,7 @@ body{
 }
 
 div,header,article,aside{
-	min-height: 200px;
+	min-height: 150px;
 }
 
 section{
@@ -27,7 +27,7 @@ div.wrapper{
 }
 
 article{
-	width: 600px;
+	width: 550px;
 	padding: 20px;
 	padding-left: 30px;
 	padding-top:40px;
@@ -36,8 +36,8 @@ article{
 }
 
 aside{
-	width: 200px;
-	padding: 20px;
+	width: 220px;
+	padding: 40px;
 	float: left;
 }
 
@@ -58,7 +58,6 @@ aside{
 .menu li {
 		float: right;
 		width: 100px;
-		background-color: #f0f0f0;
 	}
 .menu li a{
 		display: block;
@@ -70,8 +69,7 @@ aside{
 
 
 .menu li a:hover{
-	background-color: grey;
-	color: white;
+	color: #f0f0f0;
 	}
 
 		
