@@ -1,0 +1,77 @@
+
+@import 'https://fonts.googleapis.com/css?family=Oswald';
+@import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Oswald';
+
+h1, h2{
+	font-family: 'Oswald', sans-serif, cursive;
+}
+
+body{
+	font-family: 'Open Sans Condensed', sans-serif, cursive;
+}
+
+div,header,article,aside{
+	min-height: 200px;
+}
+
+section{
+	width: 500px;
+	margin: 10px;
+	padding-left: 20px;
+}
+
+div.wrapper{
+	width: 900px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+article{
+	width: 600px;
+	padding: 20px;
+	padding-left: 30px;
+	padding-top:40px;
+	float: left;
+	background-color: #f0f0f0;
+}
+
+aside{
+	width: 200px;
+	padding: 20px;
+	float: left;
+}
+
+.clear{
+	clear:both;
+}
+
+
+	ul{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 100%;
+		background-color: white;
+	}
+
+.menu li {
+		float: right;
+		width: 100px;
+		background-color: #f0f0f0;
+	}
+.menu li a{
+		display: block;
+		text-align: center;
+		padding: 10px 0;
+		text-decoration: none;
+		color: grey;
+	}
+
+
+.menu li a:hover{
+	background-color: grey;
+	color: white;
+	}
+
+		
